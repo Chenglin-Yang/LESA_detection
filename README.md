@@ -6,7 +6,7 @@
 
 ## Introduction
 
-This repository contains the official implementation of [Locally Enhanced Self-Attention: Rethinking Self-Attention as Local and Context Terms](https://arxiv.org/abs/).
+This repository contains the official implementation of [Locally Enhanced Self-Attention: Rethinking Self-Attention as Local and Context Terms](http://arxiv.org/abs/2107.05637).
 The code for object detection is based on [mmdetection](https://github.com/open-mmlab/mmdetection). Please refer to [LESA](https://github.com/Chenglin-Yang/LESA) for the whole project.
 
 ## Installation
@@ -31,7 +31,7 @@ If you find LESA is helpful in your project, please consider citing our paper.
 @article{yang2021locally,
   title={Locally Enhanced Self-Attention: Rethinking Self-Attention as Local and Context Terms},
   author={Yang, Chenglin and Qiao, Siyuan and Kortylewski, Adam and Yuille, Alan},
-  journal={arXiv preprint arXiv:},
+  journal={arXiv preprint arXiv:2107.05637},
   year={2021}
 }
 ```
